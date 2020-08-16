@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Synonyms start="0" num="4" total="4">
+  <Synonym term="carbon monoxide">
+    <Variant>co</Variant>
+  </Synonym>
+  <Synonym term="compression">
+    <Variant>night-night</Variant>
+  </Synonym>
+  <Synonym term="inert gas">
+    <Variant>exit bag</Variant>
+    <Variant>exit hood</Variant>
+    <Variant>helium</Variant>
+    <Variant>nitrogen</Variant>
+    <Variant>suicide bag</Variant>
+  </Synonym>
+  <Synonym term="sodium nitrite">
+    <Variant>sn</Variant>
+  </Synonym>
+</Synonyms>

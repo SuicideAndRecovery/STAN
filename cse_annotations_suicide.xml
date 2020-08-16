@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Annotations>
+
+
+  <!-- Books and Publications -->
+
+    <!-- Too broad - CSE works better with fewer sites
+    <Annotation about="*.books.google.com/*">
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.camapcanada.ca/wp-content/uploads/2019/01/OralMAiD-Med.pdf">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.camapcanada.ca/wp-content/uploads/2019/01/OralMAiD-Process.pdf">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.dignifieddying.com/publicaties*">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Final_Exit">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/The_Complete_Manual_of_Suicide">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/The_Peaceful_Pill_Handbook">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.suicideandrecovery.com/suicide/book-review-five-last-acts-feels-like-a-rare-gem-among-suicide-manuals/">
+      <Label name="books" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+
+  <!-- Wikis -->
+
+    <Annotation about="*.suicide.wiki/*">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Asphyxia">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Assisted_suicide">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Barbiturate_overdose">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Bugchasing">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Carbon_monoxide_poisoning">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Charcoal-burning_suicide">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Consensual_homicide">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Defenestration">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Drowning">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Drug_overdose">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Euthanasia_Coaster">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Euthanasia_device">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Explosive_belt">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Falling_on_a_grenade">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Hanging">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Inert_gas_asphyxiation">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Jumper_(person)">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/List_of_suicide_sites">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Lover's_Leap">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Multiple_gunshot_suicide">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Poison">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Russian_roulette">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Sarco_device">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Sati_(practice)">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Self-immolation">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Seppuku">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/State-assisted_suicide">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_attack">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_bag">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_bridge">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_by_cop">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_by_hanging">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_by_pilot">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_methods">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_on_the_London_Underground">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Suicide_pill">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Terminal_dehydration">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Vatakkiruttal">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.en.wikipedia.org/wiki/Water_intoxication">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.wikibooks.org/wiki/Suicide*">
+      <Label name="wikis" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+
+  <!-- Web Guides -->
+
+    <!-- Charcoal / CO 8ch.net thread. Not indexed
+    <Annotation about="*.archive.is/nU3AZ">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.sanctionedsuicide.com/threads/guns-firearms-megathread.9042/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/hanging-comfortably.28034/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/how-to-hang-yourself.1183/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/inert-gas-cylinder-regulator-general-refresher-summary.30657/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/method-for-not-being-interrupted-during-cbt.24461/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/sn-a-comprehensive-guide-including-method.25148/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/sn-faq-storage-recovery-death.29714/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/sn-resource-page.32633/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+
+  <!-- Case Reports -->
+
+    <!-- Open Access or Free Per Month -->
+
+      <!-- Arbuckle, H. B., and O. J. Thies. “FATAL POISONING WITH SODIUM NITRITE.” Journal of the Elisha Mitchell Scientific Society, vol. 49, no. 1, 1933, pp. 176–77. JSTOR. -->
+      <!-- Not indexed
+      <Annotation about="*.jstor.org/stable/24332151">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+      -->
+
+      <!-- Greenberg, Morris, et al. “Outbreak of Sodium Nitrite Poisoning.” American Journal of Public Health and the Nations Health, vol. 35, no. 11, Nov. 1945, pp. 1217–20. DOI.org (Crossref), doi:10.2105/AJPH.35.11.1217. -->
+      <Annotation about="*.ajph.aphapublications.org/doi/10.2105/AJPH.35.11.1217">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Padberg, Louis R., and Thomas Martin. “THREE FATAL CASES OF SODIUM NITRITE POISONING.” Journal of the American Medical Association, vol. 113, no. 19, Nov. 1939, pp. 1733–1733. jamanetwork.com, doi:10.1001/jama.1939.72800440003010a. -->
+      <Annotation about="*.jamanetwork.com/journals/jama/article-abstract/1158764">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- “SN Attempts: Failures / Successes - Detailed Methods and Experiences Information [Google Docs].” Sanctioned Suicide, https://sanctionedsuicide.com/threads/sn-attempts-failures-successes-detailed-methods-and-experiences-information-google-docs.29900/. Accessed 15 Aug. 2020. -->
+      <Annotation about="*.sanctionedsuicide.com/threads/sn-attempts-failures-successes-detailed-methods-and-experiences-information-google-docs.29900/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- “Sodium Nitrite Poisoning Cases - Suicide Wiki.” Suicide Wiki, https://suicide.wiki/w/Sodium_Nitrite_Poisoning_Cases. Accessed 15 Aug. 2020. -->
+      <Annotation about="*.suicide.wiki/w/Sodium_Nitrite_Poisoning_Cases">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+    <!-- Paywalled -->
+
+      <!-- Aquanno, J. J., et al. “Accidental Poisoning of Two Laboratory Technologists with Sodium Nitrite.” Clinical Chemistry, vol. 27, no. 6, June 1981, pp. 1145–46. -->
+      <Annotation about="*.academic.oup.com/clinchem/article-abstract/27/6/1145/5666572">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Corkery, John M., et al. “Gamma Hydroxybutyrate (GHB), Gamma Butyrolactone (GBL) and 1,4-Butanediol (1,4-BD; BDO): A Literature Review with a Focus on UK Fatalities Related to Non-Medical Use.” Neuroscience & Biobehavioral Reviews, vol. 53, June 2015, pp. 52–78. www.sciencedirect.com, doi:10.1016/j.neubiorev.2015.03.012. -->
+      <Annotation about="*.sciencedirect.com/science/article/abs/pii/S014976341500086X">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Mcquiston, T. a. C. “FATAL POISONING BY SODIUM NITRITE.” The Lancet, vol. 228, no. 5907, Nov. 1936, pp. 1153–54. www.thelancet.com, doi:10.1016/S0140-6736(00)79085-4. -->
+      <Annotation about="*.thelancet.com/journals/lancet/article/PIIS0140-6736(00)79085-4*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Simic, Milan, et al. “The Characteristics of Head Wounds Inflicted by ‘Humane Killer’ (Captive-Bolt Gun)-a 15-Year Study.” Journal of Forensic Sciences, vol. 52, no. 5, Sept. 2007, pp. 1182–85. PubMed, doi:10.1111/j.1556-4029.2007.00519.x. -->
+      <Annotation about="*.onlinelibrary.wiley.com/doi/abs/10.1111/j.1556-4029.2007.00519.x">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Ten Brink, W. A., et al. “Nitrite Poisoning Caused by Food Contaminated with Cooling Fluid.” Journal of Toxicology. Clinical Toxicology, vol. 19, no. 2, Apr. 1982, pp. 139–47. PubMed, doi:10.3109/15563658208990376. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pubmed/7109005/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+
+  <!-- Forums -->
+
+    <!-- Forum closed.
+    <Annotation about="*.8ch.net/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Threads are not indexed as of 2020-2-12
+    <Annotation about="*.forum.dignitas.ch/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Low quality results
+    <Annotation about="*.forumjar.com/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- TODO: Not working
+    <Annotation about="*.groups.google.com/forum/#!forum/alt.suicide.finals/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- TODO: Not working
+    <Annotation about="*.notabug.io/t/sanctionedsuicide/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Too many irrelevant results for now?
+    <Annotation about="*.quora.com/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.raddle.me/f/SanctionedSuicide*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <!-- Forum banned
+    <Annotation about="*.reddit.com/r/FreeToGo*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Forum banned
+    <Annotation about="*.reddit.com/r/SanctionedSuicide*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Forum banned
+    <Annotation about="*.reddit.com/r/TrueSanctionedSuicide*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- May be too little useful information.
+    <Annotation about="*.reddit.com/r/suicidewatch*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Forum banned
+    <Annotation about="*.reddit.com/r/suicidology*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <!-- Forum banned and may be too little useful information.
+    <Annotation about="*.reddit.com/r/TimeToGo*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.sanctionedsuicide.com/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <!-- Removed for not being English
+    <Annotation about="*.voy.com/228518/*">
+      <Label name="forums" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+
+  <!-- Uncategorized -->
+
+    <Annotation about="*.animatedknots.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <!-- Too broad
+    <Annotation about="*.archive.fo/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.archive.is/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.archive.md/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.archive.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.archive.today/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.ash.notearthday.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.ashspace.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.dignitas.ch/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.exiteuthanasia.wordpress.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.exitinternational.net/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.finalexit.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.lostallhope.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <!-- Too broad
+    <Annotation about="*.pastebin.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+    <Annotation about="*.peacefulpillhandbook.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.suicideandrecovery.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.suicidemethods.info/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.suicideproject.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <!-- Too broad
+    <Annotation about="*.wordpress.com/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.wordpress.org/*">
+      <Label name="uncategorized" />
+      <Label name="_cse_include"/>
+    </Annotation>
+    -->
+
+
+</Annotations>

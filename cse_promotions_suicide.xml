@@ -1,0 +1,13 @@
+<Promotions
+    start="0"
+    num="1"
+    total="1">
+  <Promotion
+      id="1"
+      queries=".*"
+      title="To talk to someone from a suicide hotline"
+      url="https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines"
+      is_regex="true"
+      enabled="true"
+  />
+</Promotions>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomSearchEngine
+    id="yr5ayqfyj8d"
+    keywords=""
+    language="en"
+    encoding="UTF-8"
+    enable_promotions="true"
+    autocompletions="true">
+  <Title>STAN</Title>
+  <Description>A search engine for research into suicide topics.</Description>
+  <Context>
+    <BackgroundLabels>
+      <!-- Note that changing FILTER to BOOST to allow other results
+           from the web seemingly caused site:sanctionedsuicide.com queries to
+           return almost no results on 2020-1-2.
+           For details see: https://support.google.com/customsearch/answer/70392
+      -->
+      <Label name="_cse_include" mode="FILTER"/>
+      <Label name="_cse_exclude_yr5ayqfyj8d" mode="ELIMINATE"/>
+    </BackgroundLabels>
+    <Facet>
+      <FacetItem title="Books &amp; Publications">
+        <Label name="books" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Wikis">
+        <Label name="wikis" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Web Guides">
+        <Label name="guides" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Cases (Free)">
+        <Label name="cases_free" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Cases (Paid)">
+        <Label name="cases_paid" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Forums">
+        <Label name="forums" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Uncategorized">
+        <Label name="uncategorized" mode="FILTER" />
+      </FacetItem>
+    </Facet>
+  </Context>
+  <LookAndFeel
+      element_layout="8"
+      theme="3"
+      custom_theme="false"
+      url_length="full"
+      element_branding="show"
+      enable_cse_thumbnail="true"
+      promotion_url_length="full"
+      font="6">
+    <Logo
+        url="https://suicideandrecovery.com/wp-content/uploads/2020/08/STAN.png"
+        destination="https://suicideandrecovery.com/"
+        height="100"
+    />
+    <Colors/>
+    <Promotions/>
+    <SearchControls/>
+    <Results/>
+  </LookAndFeel>
+  <ImageSearchSettings enable="false"/>
+  <autocomplete_settings/>
+  <sort_by_keys label="Relevance" key=""/>
+  <sort_by_keys label="Date" key="date"/>
+  <cse_advance_settings>
+    <web_search_options enable_history="true">
+      <search_restrict_args filter="1"/>
+    </web_search_options>
+    <image_advanced_options>
+      <search_restrict_args filter="1"/>
+    </image_advanced_options>
+  </cse_advance_settings>
+</CustomSearchEngine>
