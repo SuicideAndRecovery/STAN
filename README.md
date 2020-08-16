@@ -47,7 +47,7 @@ Unzip them somewhere convenient.
 
 At this point the search engine is created and should be functioning.
 
-## 3. Visit your search engine
+### 3. Visit your search engine
 
 Click on **Setup**. Under the **Basics** tab, the search engine will be at
  the **Public URL**. Try it out.
