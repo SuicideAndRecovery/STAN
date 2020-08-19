@@ -309,21 +309,170 @@
     <!-- Open Access or Free Per Month -->
 
       <!-- Arbuckle, H. B., and O. J. Thies. “FATAL POISONING WITH SODIUM NITRITE.” Journal of the Elisha Mitchell Scientific Society, vol. 49, no. 1, 1933, pp. 176–77. JSTOR. -->
-      <!-- Not indexed
-      <Annotation about="*.jstor.org/stable/24332151">
+      <!-- Not showing up in searches? -->
+      <Annotation about="*.jstor.org/stable/24332151*">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
-      -->
+
+      <!-- Bulliung, A. Matt. “METHEMOGLOBINEMA RESULTING FROM NITRITE INGESTION.” The Sanitarian, vol. 19, no. 4, 1957, pp. 142–48. JSTOR. -->
+      <Annotation about="*.jstor.org/stable/26325431*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Chui, J. S. W., et al. “Nitrite‐induced Methaemoglobinaemia – Aetiology, Diagnosis and Treatment.” Anaesthesia, vol. 60, no. 5, May 2005, pp. 496–500. onlinelibrary.wiley.com, doi:10.1111/j.1365-2044.2004.04076.x. -->
+      <Annotation about="*.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2004.04076.x*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Cvetković, Danica, et al. “Sodium Nitrite Food Poisoning in One Family.” Forensic Science, Medicine, and Pathology, vol. 15, no. 1, 2019, pp. 102–05. PubMed, doi:10.1007/s12024-018-0036-1. -->
+      <Annotation about="*.researchgate.net/publication/328118318_Sodium_nitrite_food_poisoning_in_one_family*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Dalaker, Vivian M., et al. “A Young Woman Who Drank Strep Test Reagents.” Tidsskrift for Den Norske Legeforening, Dec. 2015. tidsskriftet.no, doi:10.4045/tidsskr.15.0190. -->
+      <Annotation about="*.tidsskriftet.no/en/2015/12/young-woman-who-drank-strep-test-reagents-0*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Di Vella, Giancarlo, et al. Fatal Sodium Nitrite Poisoning: A Case Report. The American Academy of Forensic Sciences, 2013, pp. 377–377. iris.unito.it, https://iris.unito.it/handle/2318/1521548. -->
+      <Annotation about="*.iris.unito.it/handle/2318/1521548*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Finan, Alan, et al. “Methaemoglobinaemia Associated with Sodium Nitrite in Three Siblings.” BMJ : British Medical Journal, vol. 317, no. 7166, Oct. 1998, pp. 1138–39. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC1114113">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Freedman, M. L. “Seven Cases of Poisoning by Sodium Nitrite.” South African Medical Journal, vol. 36, no. 1, 1962, https://www.ajol.info/index.php/samj/article/view/177644. -->
+      <Annotation about="*.ajol.info/index.php/samj/article/view/177644*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
 
       <!-- Greenberg, Morris, et al. “Outbreak of Sodium Nitrite Poisoning.” American Journal of Public Health and the Nations Health, vol. 35, no. 11, Nov. 1945, pp. 1217–20. DOI.org (Crossref), doi:10.2105/AJPH.35.11.1217. -->
-      <Annotation about="*.ajph.aphapublications.org/doi/10.2105/AJPH.35.11.1217">
+      <Annotation about="*.ajph.aphapublications.org/doi/10.2105/AJPH.35.11.1217*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Gowans, W. J. “Fatal Methaemoglobinaemia in a Dental Nurse. A Case of Sodium Nitrite Poisoning.” British Journal of General Practice, vol. 40, no. 340, Nov. 1990, pp. 470–71. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC1371420/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Hideyuki Nushida, Minori Nishiguchi. “An Autopsy Case of Fatal Methemoglobinemia Due to Ingestion of Sodium Nitrite.” Journal of Forensic Research, vol. 06, no. 01, 2014. DOI.org (Crossref), doi:10.4172/2157-7145.1000262. -->
+      <Annotation about="*.hilarispublisher.com/open-access/an-autopsy-case-of-fatal-methemoglobinemia-due-to-ingestion-of-sodium-nitrite-2157-7145.1000262.pdf">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Hussain, M. M. Syddiq. “A Few Unusual Cases of Poisoning.” The Indian Medical Gazette, vol. 77, no. 11, Nov. 1942, pp. 676–77. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC5169424/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Jain, Michael D., and Anna Nikonova. “Methemoglobinemia from Curing Salt.” CMAJ : Canadian Medical Association Journal, vol. 185, no. 16, 5 2013, p. E771. PubMed Central, doi:10.1503/cmaj.121714. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC3826356/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Johannesen, Melina. Sodium Nitrite: Not Your Cure-All Remedy. http://www.mm2018shpa.com/wp-content/uploads/2018/11/079-Johannesen-M-Sodium-nitrite-not-your-cure-all-remedy.pdf. -->
+      <Annotation about="*.mm2018shpa.com/wp-content/uploads/2018/11/079-Johannesen-M-Sodium-nitrite-not-your-cure-all-remedy.pdf">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Katabami, Kenichi, et al. “Severe Methemoglobinemia Due to Sodium Nitrite Poisoning.” Case Reports in Emergency Medicine, 2016, doi:10.1155/2016/9013816. -->
+      <Annotation about="*.hindawi.com/journals/criem/2016/9013816/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Kennedy, N., et al. “Faulty Sausage Production Causing Methaemoglobinaemia.” Archives of Disease in Childhood, vol. 76, no. 4, Apr. 1997, pp. 367–68. PubMed, doi:10.1136/adc.76.4.367. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC1717145/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Khan, Ali, et al. “Deadly Meatballs-a near Fatal Case of Methaemoglobinaemia.” The New Zealand Medical Journal, vol. 119, no. 1239, Aug. 2006, p. U2107. -->
+      <Annotation about="*.researchgate.net/publication/6874372_Deadly_meatballs_-_A_near_fatal_case_of_methaemoglobinaemia*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Lewis, Jason. “Student Died in His Room after Consuming More than 100 Times the Safe Amount of Sodium Nitrate, Inquest Hears.” Daily Echo, https://www.dailyecho.co.uk/news/17909669.university-southampton-student-consumed-fatal-amount-sodium-nitrate-inquest-hears/. Accessed 15 Nov. 2019. -->
+      <Annotation about="*.dailyecho.co.uk/news/17909669.university-southampton-student-consumed-fatal-amount-sodium-nitrate-inquest-hears/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Maric, Peter, et al. “Methaemoglobinaemia Following Ingestion of a Commonly Available Food Additive.” The Medical Journal of Australia, vol. 188, no. 3, Feb. 2008, pp. 156–58. -->
+      <Annotation about="*.researchgate.net/publication/5611307_Methemoglobinemia_following_ingestion_of_a_commonly_available_food_additive">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Matteucci, Osvaldo, et al. “Two Cases of Methemoglobinaemia Caused by Suspected Sodium Nitrite Poisoning.” Vet Ital, vol. 44, 2008, p. 7. -->
+      <Annotation about="*.izs.it/vet_italiana/2008/44_2/447.pdf">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Minami, Masayasu. “Does Industrial and Environmental Toxicology Have Relevance to Forensic Toxicology?” Journal of Toxicology: Toxin Reviews, July 2009. world, www.tandfonline.com, doi:10.3109/15569549809006489. -->
+      <Annotation about="*.tandfonline.com/doi/pdf/10.3109/15569549809006489">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Moos, Matthias, et al. “[Severe methemoglobinaemia following sodium nitrite ingestion].” Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie: AINS, vol. 44, no. 5, May 2009, pp. 328–34. PubMed, doi:10.1055/s-0029-1224778. -->
+      <Annotation about="*.europepmc.org/article/med/19440940">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Orgeron, J. D., et al. “Methemoglobinemia from Eating Meat with High Nitrite Content.” Public Health Reports, vol. 72, no. 3, Mar. 1957, pp. 189–93. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC2031154/">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
 
       <!-- Padberg, Louis R., and Thomas Martin. “THREE FATAL CASES OF SODIUM NITRITE POISONING.” Journal of the American Medical Association, vol. 113, no. 19, Nov. 1939, pp. 1733–1733. jamanetwork.com, doi:10.1001/jama.1939.72800440003010a. -->
-      <Annotation about="*.jamanetwork.com/journals/jama/article-abstract/1158764">
+      <Annotation about="*.jamanetwork.com/journals/jama/article-abstract/1158764*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Pereira, Fernando. “Se reporta suicidio con nitrito de sodio en Bayamón.” El Vocero de Puerto Rico, https://www.elvocero.com/ley-y-orden/se-reporta-suicidio-con-nitrito-de-sodio-en-bayam-n/article_82ec96d0-3117-11e9-a7a3-8723b842f3c6.html. Accessed 15 Nov. 2019. -->
+      <Annotation about="*.elvocero.com/ley-y-orden/se-reporta-suicidio-con-nitrito-de-sodio-en-bayam-n/article_82ec96d0-3117-11e9-a7a3-8723b842f3c6.html">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Rêgo, Janilton. LEM-BA: Mulher Passa Mal e Morre Após Ingerir Substância Com Nitrito de Sódio - MACAUBENSE LIFE. http://www.macaubenselife.com.br/2019/08/lem-ba-mulher-passa-mal-e-morre-apos.html. Accessed 15 Nov. 2019. -->
+      <Annotation about="*.macaubenselife.com.br/2019/08/lem-ba-mulher-passa-mal-e-morre-apos.html">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- RQuotidiano. “Donna morta a Barletta, non era sorbitolo ma nitrito di sodio.” Il Fatto Quotidiano, 27 Mar. 2012, http://www.ilfattoquotidiano.it/2012/03/27/donna-morta-barletta-sorbitolo-nitrito-sodio/200362/. -->
+      <Annotation about="*.ilfattoquotidiano.it/2012/03/27/donna-morta-barletta-sorbitolo-nitrito-sodio/200362/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Siong, Dr Tan Boon. “Swiflets Nests Research: DEATH BY SODIUM NITRITE.” Swiflets Nests Research, 7 Jan. 2011, https://swifletresearch.blogspot.com/2011/01/death-by-sodium-nitrite.html. -->
+      <Annotation about="*.swifletresearch.blogspot.com/2011/01/death-by-sodium-nitrite.html">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -340,16 +489,138 @@
         <Label name="_cse_include"/>
       </Annotation>
 
-    <!-- Paywalled -->
+      <!-- Sohn, C. H., et al. “Life-Threatening Methemoglobinemia after Unintentional Ingestion of Antifreeze Admixtures Containing Sodium Nitrite in the Construction Sites.” Clinical Toxicology, Jan. 2014. world, www.tandfonline.com, https://www.researchgate.net/publication/258850719_Life-threatening_methemoglobinemia_after_unintentional_ingestion_of_antifreeze_admixtures_containing_sodium_nitrite_in_the_construction_sites. -->
+      <Annotation about="*.researchgate.net/publication/258850719_Life-threatening_methemoglobinemia_after_unintentional_ingestion_of_antifreeze_admixtures_containing_sodium_nitrite_in_the_construction_sites">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Su, Ying-Fu, et al. “Successful Treatment of Methemoglobinemia in an Elderly Couple with Severe Cyanosis: Two Case Reports.” Journal of Medical Case Reports, vol. 6, no. 1, Sept. 2012, p. 290. BioMed Central, doi:10.1186/1752-1947-6-290. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC3444913/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Tung, Shu-Ping, et al. “Methaemoglobinaemia Secondary to the Ingestion of Sodium Nitrite in Mistake for Common Salt.” Resuscitation, vol. 70, no. 2, Aug. 2006, pp. 168–69. PubMed, doi:10.1016/j.resuscitation.2006.02.017. -->
+      <Annotation about="*.academia.edu/6107640/Methaemoglobinaemia_secondary_to_the_ingestion_of_sodium_nitrite_in_mistake_for_common_salt_Ping_Tung_Chorng_Kuang_How">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Wang, Ruiping, et al. “A Family Cluster of Nitrite Poisoning, Suzhou City, Jiangsu, China, 2013.” Western Pacific Surveillance and Response, vol. 4, no. 3, July 2013. ojs.wpro.who.int, doi:10.5365/wpsar.v4i3.105. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC3854094/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Wareham, Stephanie. “Devastated Family of Bright 17-Year-Old Remember His ‘Irreplaceable Spark and Kindness.’” Bucks Free Press, https://www.bucksfreepress.co.uk/news/17896174.devastated-family-bright-17-year-old-marlow-took-life-remember-39-irreplaceable-spark-kindness-39/. Accessed 15 Nov. 2019. -->
+      <Annotation about="*.bucksfreepress.co.uk/news/17896174.devastated-family-bright-17-year-old-marlow-took-life-remember-39-irreplaceable-spark-kindness-39/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- White, Gary. “Autopsy: Medical Examiner Rules Florida Polytechnic University Student Killed Himself.” The Ledger, https://www.theledger.com/news/20191029/autopsy-medical-examiner-rules-florida-polytechnic-university-student-killed-himself. Accessed 2 Nov. 2019. -->
+      <Annotation about="*.theledger.com/news/20191029/autopsy-medical-examiner-rules-florida-polytechnic-university-student-killed-himself">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Zuo, Mandy. Authorities Agree to Keep up Fight for Life of Brain-Dead Chinese Boy ‘Poisoned by Kindergarten Teacher.’ 20 Oct. 2019, https://sg.news.yahoo.com/authorities-agree-keep-fight-life-071318945.html. -->
+      <Annotation about="*.sg.news.yahoo.com/authorities-agree-keep-fight-life-071318945.html">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+    <!-- Paywalled or Unavailable for Free -->
 
       <!-- Aquanno, J. J., et al. “Accidental Poisoning of Two Laboratory Technologists with Sodium Nitrite.” Clinical Chemistry, vol. 27, no. 6, June 1981, pp. 1145–46. -->
-      <Annotation about="*.academic.oup.com/clinchem/article-abstract/27/6/1145/5666572">
+      <Annotation about="*.academic.oup.com/clinchem/article-abstract/27/6/1145/5666572*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Archer, A. W., and R. Geyer. “Production of Cyanide in a Sodium Nitrite Poisoning Case Using an Acid Distillation Screening Test.” Journal - Forensic Science Society, vol. 22, no. 4, Oct. 1982, pp. 333–34. PubMed, doi:10.1016/s0015-7368(82)71506-3. -->
+      <!-- Not showing up in searches as of 2020-8-17? -->
+      <Annotation about="*.sciencedirect.com/science/article/abs/pii/S15736882715062*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Bardsley, C. “Methaemoglobinaemia.” Australian Family Physician, vol. 31, no. 5, May 2002, p. 449. -->
+      <!-- Not showing up in searches as of 2020-8-17? -->
+      <Annotation about="*.search.informit.org/documentSummary;dn=382373870993677;res=IELHEA*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Büch, O. “Massenvergiftung durch Natriumnitrit.” Fühner-Wieland’s Sammlung von Vergiftungsfällen, vol. 14, no. 2, Jan. 1952, pp. 53–55. Springer Link, doi:10.1007/BF00597353. -->
+      <Annotation about="*.link.springer.com/article/10.1007/BF00597353">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
 
       <!-- Corkery, John M., et al. “Gamma Hydroxybutyrate (GHB), Gamma Butyrolactone (GBL) and 1,4-Butanediol (1,4-BD; BDO): A Literature Review with a Focus on UK Fatalities Related to Non-Medical Use.” Neuroscience & Biobehavioral Reviews, vol. 53, June 2015, pp. 52–78. www.sciencedirect.com, doi:10.1016/j.neubiorev.2015.03.012. -->
-      <Annotation about="*.sciencedirect.com/science/article/abs/pii/S014976341500086X">
+      <Annotation about="*.sciencedirect.com/science/article/abs/pii/S014976341500086X*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Ellis, M., et al. “Fatal Methemoglobinemia Caused by Inadvertent Contamination of a Laxative Solution with Sodium Nitrite.” Israel Journal of Medical Sciences, vol. 28, no. 5, May 1992, pp. 289–91. -->
+      <Annotation about="*.europepmc.org/article/med/1597359*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Farkas, Andrew N., et al. “Methemoglobinemia Due to Antifreeze Ingestion.” The New England Journal of Medicine, vol. 377, no. 20, 16 2017, pp. 1993–94. PubMed, doi:10.1056/NEJMc1712813. -->
+      <Annotation about="*.nejm.org/doi/full/10.1056/NEJMc1712813*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Freeman, Lance, and Robert W. Wolford. “Methemoglobinemia Secondary to Cleaning Solution Ingestion.” The Journal of Emergency Medicine, vol. 14, no. 5, Sept. 1996, pp. 599–601. www.sciencedirect.com, doi:10.1016/S0736-4679(96)00139-4. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/8933322/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Gautami, Siddula, et al. “Accidental Acute Fatal Sodium Nitrite Poisoning.” Journal of Toxicology: Clinical Toxicology, Sept. 2008. world, www.tandfonline.com, doi:10.3109/15563659509000462. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/7897751/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Graben, N., et al. “[Haemodialysis of acute renal poisoning (author’s transl)].” Deutsche medizinische Wochenschrift (1946), vol. 102, no. 23, June 1977, pp. 868–866. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/872746/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Harvey, Martyn, et al. “Fatal Methaemoglobinaemia Induced by Self‐poisoning with Sodium Nitrite.” Emergency Medicine Australasia, vol. 22, no. 5, Oct. 2010, pp. 463–65. onlinelibrary.wiley.com, doi:10.1111/j.1742-6723.2010.01335.x. -->
+      <Annotation about="*.onlinelibrary.wiley.com/doi/abs/10.1111/j.1742-6723.2010.01335.x*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Jiranantakan, Thanjira, et al. “Methemoglobinemia from Frozen-Dried Mudfish Contaminated with Sodium Nitrite.” Clinical Toxicology (Philadelphia, Pa.), vol. 54, no. 9, Nov. 2016, p. 892. PubMed, doi:10.1080/15563650.2016.1201677. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/27367334/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Kaplan, A., et al. “Methaemoglobinaemia Due to Accidental Sodium Nitrite Poisoning. Report of 10 Cases.” South African Medical Journal = Suid-Afrikaanse Tydskrif Vir Geneeskunde, vol. 77, no. 6, Mar. 1990, pp. 300–01. -->
+      <Annotation about="*.europepmc.org/article/med/2315812">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Kredba, V., et al. “[Sodium nitrite poisoning in a neonate].” Casopis Lekaru Ceskych, vol. 142, no. 1, Jan. 2003, pp. 43–45. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/12693298/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Lee, Changhwan, et al. “Unintentional Mass Sodium Nitrite Poisoning with a Fatality.” Clinical Toxicology (Philadelphia, Pa.), vol. 55, no. 7, 2017, pp. 678–79. PubMed, doi:10.1080/15563650.2017.1303142. -->
+      <Annotation about="*.tandfonline.com/doi/abs/10.1080/15563650.2017.1303142">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -360,14 +631,62 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Raj, Pahadiya Hans, et al. “A Case of Severe Methemoglobinemia with Shock and High Saturation Gap Following Suicidal Ingestion of Sodium Nitrite-Saved by Oral Methylene Blue.” Toxicology International, vol. 22, no. 3, Dec. 2015, pp. 147–50. -->
+      <Annotation about="*.informaticsjournals.com/index.php/toxi/article/view/20526">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Saito, T., et al. “Fatal Methemoglobinemia Caused by Liniment Solutions Containing Sodium Nitrite.” Journal of Forensic Science, vol. 41, no. 1, Jan. 1996, pp. 169–71. www.astm.org, doi:10.1520/JFS13919J. -->
+      <Annotation about="*.astm.org/DIGITAL_LIBRARY/JOURNALS/FORENSIC/PAGES/JFS13919J.htm">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Schrader, G., and O. Geßner. “Massenvergiftung durch Natriumnitrit.” Fühner-Wieland’s Sammlung von Vergiftungsfällen, vol. 13, no. 1, Dec. 1944, pp. 101–04. Springer Link, doi:10.1007/BF02458195. -->
+      <Annotation about="*.link.springer.com/article/10.1007%2FBF02458195?LI=true">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Simic, Milan, et al. “The Characteristics of Head Wounds Inflicted by ‘Humane Killer’ (Captive-Bolt Gun)-a 15-Year Study.” Journal of Forensic Sciences, vol. 52, no. 5, Sept. 2007, pp. 1182–85. PubMed, doi:10.1111/j.1556-4029.2007.00519.x. -->
-      <Annotation about="*.onlinelibrary.wiley.com/doi/abs/10.1111/j.1556-4029.2007.00519.x">
+      <Annotation about="*.onlinelibrary.wiley.com/doi/abs/10.1111/j.1556-4029.2007.00519.x*">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Standefer, J. C., et al. “Death Associated with Nitrite Ingestion: Report of a Case.” Journal of Forensic Science, vol. 24, no. 4, Oct. 1979, pp. 768–71. www.astm.org, doi:10.1520/JFS10905J. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/541641/">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
 
       <!-- Ten Brink, W. A., et al. “Nitrite Poisoning Caused by Food Contaminated with Cooling Fluid.” Journal of Toxicology. Clinical Toxicology, vol. 19, no. 2, Apr. 1982, pp. 139–47. PubMed, doi:10.3109/15563658208990376. -->
       <Annotation about="*.ncbi.nlm.nih.gov/pubmed/7109005/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Tepperman, J., et al. “Methemoglobinemic Cyanosis. Report of an Epidemic Due to Corning Extract Substituted for Maple Syrup.” J. Am. Med. Assoc., 1951. -->
+      <Annotation about="*.jamanetwork.com/journals/jama/article-abstract/311089">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Workum, Jessica D., et al. “[Autointoxication with ’suicide powder’].” Nederlands Tijdschrift Voor Geneeskunde, vol. 163, Mar. 2019. PubMed, https://read.qxmd.com/read/30875162/-autointoxication-with-suicide-powder. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/30875162/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Yan, Hui, et al. “Determination of Nitrite in Whole Blood by High-Performance Liquid Chromatography with Electrochemical Detection and a Case of Nitrite Poisoning.” Journal of Forensic Sciences, vol. 61, no. 1, 2016, pp. 254–58. Wiley Online Library, doi:10.1111/1556-4029.12918. -->
+      <Annotation about="*.pubmed.ncbi.nlm.nih.gov/26271670/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Yang, J. J., et al. “Methemoglobinemia Misdiagnosed as Ruptured Ectopic Pregnancy.” Acta Anaesthesiologica Scandinavica, vol. 49, no. 4, Apr. 2005, pp. 586–88. PubMed, doi:10.1111/j.1399-6576.2005.00640.x. -->
+      <Annotation about="*.onlinelibrary.wiley.com/doi/full/10.1111/j.1399-6576.2005.00640.x">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
