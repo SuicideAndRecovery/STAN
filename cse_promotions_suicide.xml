@@ -5,7 +5,7 @@
   <Promotion
       id="1"
       queries=".*"
-      title="To talk to someone from a suicide hotline"
+      title="Hit the tabs for better results. To talk to someone from a suicide hotline hit this link:"
       url="https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines"
       is_regex="true"
       enabled="true"
