@@ -15,23 +15,23 @@
       <Label name="_cse_exclude" mode="ELIMINATE"/>
     </BackgroundLabels>
     <Facet>
-      <FacetItem title="Books &amp; Publications">
-        <Label name="books" mode="FILTER" />
-      </FacetItem>
       <FacetItem title="Wikis">
         <Label name="wikis" mode="FILTER" />
       </FacetItem>
       <FacetItem title="Web Guides">
         <Label name="guides" mode="FILTER" />
       </FacetItem>
+      <FacetItem title="Forums">
+        <Label name="forums" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Books &amp; Publications">
+        <Label name="books" mode="FILTER" />
+      </FacetItem>
       <FacetItem title="Cases (Free)">
         <Label name="cases_free" mode="FILTER" />
       </FacetItem>
       <FacetItem title="Cases (Paid)">
         <Label name="cases_paid" mode="FILTER" />
-      </FacetItem>
-      <FacetItem title="Forums">
-        <Label name="forums" mode="FILTER" />
       </FacetItem>
       <FacetItem title="Uncategorized">
         <Label name="uncategorized" mode="FILTER" />
