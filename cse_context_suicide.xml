@@ -10,13 +10,9 @@
   <Description>A search engine for research into suicide topics.</Description>
   <Context>
     <BackgroundLabels>
-      <!-- Note that changing FILTER to BOOST to allow other results
-           from the web seemingly caused site:sanctionedsuicide.com queries to
-           return almost no results on 2020-1-2.
-           For details see: https://support.google.com/customsearch/answer/70392
-      -->
-      <Label name="_cse_include" mode="FILTER"/>
-      <Label name="_cse_exclude_yr5ayqfyj8d" mode="ELIMINATE"/>
+      <!-- BOOST includes other web results. -->
+      <Label name="_cse_include" mode="BOOST" weight="1.0"/>
+      <Label name="_cse_exclude" mode="ELIMINATE"/>
     </BackgroundLabels>
     <Facet>
       <FacetItem title="Books &amp; Publications">
