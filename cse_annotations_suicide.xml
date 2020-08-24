@@ -263,6 +263,11 @@
     </Annotation>
     -->
 
+    <Annotation about="*.lostallhope.com/*">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
     <Annotation about="*.sanctionedsuicide.com/threads/guns-firearms-megathread.9042/">
       <Label name="guides" />
       <Label name="_cse_include"/>
@@ -856,11 +861,6 @@
     </Annotation>
 
     <Annotation about="*.finalexit.org/*">
-      <Label name="uncategorized" />
-      <Label name="_cse_include"/>
-    </Annotation>
-
-    <Annotation about="*.lostallhope.com/*">
       <Label name="uncategorized" />
       <Label name="_cse_include"/>
     </Annotation>
