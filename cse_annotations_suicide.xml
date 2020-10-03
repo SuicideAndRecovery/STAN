@@ -435,8 +435,20 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- “Caravan Death Was Suicide.” Worcester News, https://www.worcesternews.co.uk/news/3609647.caravan-death-was-suicide/. Accessed 11 Nov. 2019. -->
+      <Annotation about="*.worcesternews.co.uk/news/3609647.caravan-death-was-suicide/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Chui, J. S. W., et al. “Nitrite‐induced Methaemoglobinaemia – Aetiology, Diagnosis and Treatment.” Anaesthesia, vol. 60, no. 5, May 2005, pp. 496–500. onlinelibrary.wiley.com, doi:10.1111/j.1365-2044.2004.04076.x. -->
       <Annotation about="*.onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2044.2004.04076.x*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Clay, Oliver. “Footballer Who Took Own Life Had Been ‘laughing and Joking’ on Day He Died.” Liverpoolecho, 16 Aug. 2018, https://www.liverpoolecho.co.uk/news/liverpool-news/footballer-who-took-life-been-15037692. -->
+      <Annotation about="*.liverpoolecho.co.uk/news/liverpool-news/footballer-who-took-life-been-15037692">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -455,6 +467,24 @@
 
       <!-- Di Vella, Giancarlo, et al. Fatal Sodium Nitrite Poisoning: A Case Report. The American Academy of Forensic Sciences, 2013, pp. 377–377. iris.unito.it, https://iris.unito.it/handle/2318/1521548. -->
       <Annotation about="*.iris.unito.it/handle/2318/1521548*">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Disley, Jan. “SUICIDE BY BBQ.” Mirror, 13 June 2006, https://www.mirror.co.uk/news/uk-news/suicide-by-bbq-629104. -->
+      <Annotation about="*.mirror.co.uk/news/uk-news/suicide-by-bbq-629104">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Durão, Carlos, et al. “A Fatal Case by a Suicide Kit Containing Sodium Nitrite Ordered by the Internet | Request PDF.” ResearchGate, doi:10.1016/j.jflm.2020.101989. Accessed 13 Sept. 2020. -->
+      <Annotation about="*.ricardinis.pt/wp-content/uploads/2020/08/9.1.143-A-fatal-case-by-a-suicide-kit-containing-sodium-nitrite-ordered-on-the-internet.pdf">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Farberov, Snejana. “Couple Commit Suicide after No One Responded to Their Plea for Help.” Mail Online, 17 Apr. 2015, https://www.dailymail.co.uk/news/article-3043895/Destitute-couple-battling-chronic-illnesses-commit-suicide-carbon-monoxide-online-pleas-help-went-without-single-response-two-months.html. -->
+      <Annotation about="*.dailymail.co.uk/news/article-3043895/Destitute-couple-battling-chronic-illnesses-commit-suicide-carbon-monoxide-online-pleas-help-went-without-single-response-two-months.html">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -489,8 +519,26 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Hills, Suzannah. “Camper, 22, Died from Inhaling Disposable Barbecue Fumes after Cooking Burgers inside His Van.” Mail Online, 6 Sept. 2012, https://www.dailymail.co.uk/news/article-2199175/Camper-22-died-inhaling-disposable-barbecue-fumes-cooking-burgers-inside-van.html. -->
+      <Annotation about="*.dailymail.co.uk/news/article-2199175/Camper-22-died-inhaling-disposable-barbecue-fumes-cooking-burgers-inside-van.html">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Holder, Bev. “Teacher, 36, Killed Himself by Lighting Disposable Barbecue in Car in Belbroughton, Inquest Hears.” Stourbridge News, https://www.stourbridgenews.co.uk/news/14159662.teacher-anthony-morbach-jenkins-killed-himself-by-lighting-disposable-barbecue-in-car-in-belbroughton-inquest-hears/. Accessed 11 Nov. 2019. -->
+      <Annotation about="*.stourbridgenews.co.uk/news/14159662.teacher-anthony-morbach-jenkins-killed-himself-by-lighting-disposable-barbecue-in-car-in-belbroughton-inquest-hears/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Hussain, M. M. Syddiq. “A Few Unusual Cases of Poisoning.” The Indian Medical Gazette, vol. 77, no. 11, Nov. 1942, pp. 676–77. -->
       <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC5169424/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- “Inquest Hears That Man ‘intentionally Killed Himself’ in Car at Grizedale Forest.” The Westmorland Gazette, https://www.thewestmorlandgazette.co.uk/news/11098175.inquest-hears-that-man-intentionally-killed-himself-in-car-at-grizedale-forest/. Accessed 11 Nov. 2019. -->
+      <Annotation about="*.thewestmorlandgazette.co.uk/news/11098175.inquest-hears-that-man-intentionally-killed-himself-in-car-at-grizedale-forest/">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -525,6 +573,12 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Kintz, Pascal, et al. “Unusually High Concentrations in a Fatal GHB Case.” Journal of Analytical Toxicology, vol. 29, no. 6, Oxford Academic, Sept. 2005, pp. 582–85. academic.oup.com, doi:10.1093/jat/29.6.582. -->
+      <Annotation about="*.academic.oup.com/jat/article/29/6/582/825284">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Lewis, Jason. “Student Died in His Room after Consuming More than 100 Times the Safe Amount of Sodium Nitrate, Inquest Hears.” Daily Echo, https://www.dailyecho.co.uk/news/17909669.university-southampton-student-consumed-fatal-amount-sodium-nitrate-inquest-hears/. Accessed 15 Nov. 2019. -->
       <Annotation about="*.dailyecho.co.uk/news/17909669.university-southampton-student-consumed-fatal-amount-sodium-nitrate-inquest-hears/">
         <Label name="cases_free" />
@@ -543,14 +597,32 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Mazarr-Proo, Susan, and Sarah Kerrigan. “Distribution of GHB in Tissues and Fluids Following a Fatal Overdose.” Journal of Analytical Toxicology, vol. 29, no. 5, Oxford Academic, July 2005, pp. 398–400. academic.oup.com, doi:10.1093/jat/29.5.398. -->
+      <Annotation about="*.academic.oup.com/jat/article/29/5/398/730699">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Minami, Masayasu. “Does Industrial and Environmental Toxicology Have Relevance to Forensic Toxicology?” Journal of Toxicology: Toxin Reviews, July 2009. world, www.tandfonline.com, doi:10.3109/15569549809006489. -->
       <Annotation about="*.tandfonline.com/doi/pdf/10.3109/15569549809006489">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Molloy, Thomas. “Inquest Opens into Death of Man Who Died after Taking an Overdose.” Manchester Evening News, 4 Sept. 2020, https://www.manchestereveningnews.co.uk/news/greater-manchester-news/man-33-took-overdose-collapsed-18880954. -->
+      <Annotation about="*.manchestereveningnews.co.uk/news/greater-manchester-news/man-33-took-overdose-collapsed-18880954">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Moos, Matthias, et al. “[Severe methemoglobinaemia following sodium nitrite ingestion].” Anasthesiologie, Intensivmedizin, Notfallmedizin, Schmerztherapie: AINS, vol. 44, no. 5, May 2009, pp. 328–34. PubMed, doi:10.1055/s-0029-1224778. -->
       <Annotation about="*.europepmc.org/article/med/19440940">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Naylor, Mary. “Reading Man Found Dead in Car by A33 Took His Own Life.” Getreading, 8 Apr. 2016, http://www.getreading.co.uk/news/reading-berkshire-news/reading-man-found-dead-car-11155255. -->
+      <Annotation about="*.getreading.co.uk/news/reading-berkshire-news/reading-man-found-dead-car-11155255">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -569,6 +641,12 @@
 
       <!-- Pereira, Fernando. “Se reporta suicidio con nitrito de sodio en Bayamón.” El Vocero de Puerto Rico, https://www.elvocero.com/ley-y-orden/se-reporta-suicidio-con-nitrito-de-sodio-en-bayam-n/article_82ec96d0-3117-11e9-a7a3-8723b842f3c6.html. Accessed 15 Nov. 2019. -->
       <Annotation about="*.elvocero.com/ley-y-orden/se-reporta-suicidio-con-nitrito-de-sodio-en-bayam-n/article_82ec96d0-3117-11e9-a7a3-8723b842f3c6.html">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- “PROOF! - VOMITING HAS *NOT* BEEN REPORTED ON THE FORUM AS A CAUSE OF SN FAILURE.” Sanctioned Suicide, https://sanctionedsuicide.com/threads/proof-vomiting-has-not-been-reported-on-the-forum-as-a-cause-of-sn-failure.47986/. Accessed 18 Sept. 2020. -->
+      <Annotation about="*.sanctionedsuicide.com/threads/proof-vomiting-has-not-been-reported-on-the-forum-as-a-cause-of-sn-failure.47986/">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -609,8 +687,20 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Stiff, G., et al. “Massive Chloroquine Overdose-a Survivor.” Postgraduate Medical Journal, vol. 67, no. 789, July 1991, pp. 678–79. -->
+      <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC2399061/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Su, Ying-Fu, et al. “Successful Treatment of Methemoglobinemia in an Elderly Couple with Severe Cyanosis: Two Case Reports.” Journal of Medical Case Reports, vol. 6, no. 1, Sept. 2012, p. 290. BioMed Central, doi:10.1186/1752-1947-6-290. -->
       <Annotation about="*.ncbi.nlm.nih.gov/pmc/articles/PMC3444913/">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Telegraph Reporters. Father Warns of Dangers of Disposable Barbeques after Son’s Accidental Death. 6 Sept. 2012. www.telegraph.co.uk, https://www.telegraph.co.uk/news/health/9525193/Father-warns-of-dangers-of-disposable-barbeques-after-sons-accidental-death.html. -->
+      <Annotation about="*.telegraph.co.uk/news/health/9525193/Father-warns-of-dangers-of-disposable-barbeques-after-sons-accidental-death.html">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -635,6 +725,12 @@
 
       <!-- White, Gary. “Autopsy: Medical Examiner Rules Florida Polytechnic University Student Killed Himself.” The Ledger, https://www.theledger.com/news/20191029/autopsy-medical-examiner-rules-florida-polytechnic-university-student-killed-himself. Accessed 2 Nov. 2019. -->
       <Annotation about="*.theledger.com/news/20191029/autopsy-medical-examiner-rules-florida-polytechnic-university-student-killed-himself">
+        <Label name="cases_free" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- YorkshireLive. “Ex-Huddersfield University Student Andrew Price Dies in Tragic BBQ Accident.” Huddersfieldexaminer, 27 May 2010, http://www.examiner.co.uk/news/west-yorkshire-news/ex-huddersfield-university-student-andrew-price-4999288. -->
+      <Annotation about="*.examiner.co.uk/news/west-yorkshire-news/ex-huddersfield-university-student-andrew-price-4999288">
         <Label name="cases_free" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -669,6 +765,12 @@
 
       <!-- Büch, O. “Massenvergiftung durch Natriumnitrit.” Fühner-Wieland’s Sammlung von Vergiftungsfällen, vol. 14, no. 2, Jan. 1952, pp. 53–55. Springer Link, doi:10.1007/BF00597353. -->
       <Annotation about="*.link.springer.com/article/10.1007/BF00597353">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Byard, R. W., and J. D. Gilbert. “Cervical Fracture, Decapitation, and Vehicle-Assisted Suicide.” Journal of Forensic Science, vol. 47, no. 2, ASTM International, Mar. 2002, pp. 392–94. www.astm.org, doi:10.1520/JFS15265J. -->
+      <Annotation about="*.astm.org/DIGITAL_LIBRARY/JOURNALS/FORENSIC/PAGES/JFS15265J.htm">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -715,8 +817,20 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <!-- Heath, Karen, and Roger W. Byard. “Lethal Carbon Monoxide Toxicity in a Concrete Shower Unit.” Forensic Science, Medicine and Pathology, vol. 15, no. 1, Mar. 2019, pp. 133–35. Springer Link, doi:10.1007/s12024-018-9990-x. -->
+      <Annotation about="*.link.springer.com/article/10.1007/s12024-018-9990-x">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <!-- Jiranantakan, Thanjira, et al. “Methemoglobinemia from Frozen-Dried Mudfish Contaminated with Sodium Nitrite.” Clinical Toxicology (Philadelphia, Pa.), vol. 54, no. 9, Nov. 2016, p. 892. PubMed, doi:10.1080/15563650.2016.1201677. -->
       <Annotation about="*.pubmed.ncbi.nlm.nih.gov/27367334/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Kalasinsky, K. S., et al. “Blood, Brain, and Hair GHB Concentrations Following Fatal Ingestion.” Journal of Forensic Science, vol. 46, no. 3, ASTM International, May 2001, pp. 728–30. www.astm.org, doi:10.1520/JFS15032J. -->
+      <Annotation about="*.astm.org/DIGITAL_LIBRARY/JOURNALS/FORENSIC/PAGES/JFS15032J.htm">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -729,6 +843,12 @@
 
       <!-- Kredba, V., et al. “[Sodium nitrite poisoning in a neonate].” Casopis Lekaru Ceskych, vol. 142, no. 1, Jan. 2003, pp. 43–45. -->
       <Annotation about="*.pubmed.ncbi.nlm.nih.gov/12693298/">
+        <Label name="cases_paid" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <!-- Langlois, Neil E. I., and Roger W. Byard. “Cable Tie Suicide.” Forensic Science, Medicine, and Pathology, vol. 13, no. 1, Mar. 2017, pp. 110–12. Springer Link, doi:10.1007/s12024-017-9840-2. -->
+      <Annotation about="*.link.springer.com/article/10.1007/s12024-017-9840-2">
         <Label name="cases_paid" />
         <Label name="_cse_include"/>
       </Annotation>
