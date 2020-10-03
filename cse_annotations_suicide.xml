@@ -268,6 +268,16 @@
       <Label name="_cse_include"/>
     </Annotation>
 
+    <Annotation about="*.sanctionedsuicide.com/threads/carbon-monoxide-megathread.2053/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/disposable-bbq-car-method-co-simplified.25162/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
     <Annotation about="*.sanctionedsuicide.com/threads/exit-bag-and-inert-gas-megathread.8393/">
       <Label name="guides" />
       <Label name="_cse_include"/>
@@ -293,7 +303,22 @@
       <Label name="_cse_include"/>
     </Annotation>
 
+    <Annotation about="*.sanctionedsuicide.com/threads/jumping-from-height-guide.47978/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
     <Annotation about="*.sanctionedsuicide.com/threads/method-for-not-being-interrupted-during-cbt.24461/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/plant-poison-megathread.5637/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/procedure-for-assisted-suicide-in-switzerland.47925/">
       <Label name="guides" />
       <Label name="_cse_include"/>
     </Annotation>
@@ -319,6 +344,11 @@
     </Annotation>
 
     <Annotation about="*.sanctionedsuicide.com/threads/sodium-azide-megathread.7465/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
+    <Annotation about="*.sanctionedsuicide.com/threads/step-by-step-guide-on-korean-night-night-tourniquet-method.40458/">
       <Label name="guides" />
       <Label name="_cse_include"/>
     </Annotation>
