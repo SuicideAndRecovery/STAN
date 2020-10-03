@@ -27,6 +27,12 @@
       <FacetItem title="Books &amp; Publications">
         <Label name="books" mode="FILTER" />
       </FacetItem>
+      <FacetItem title="Cases (Forum Survivors / Unknown)">
+        <Label name="cases_forum_survivors" mode="FILTER" />
+      </FacetItem>
+      <FacetItem title="Cases (Forum Deaths)">
+        <Label name="cases_forum_deaths" mode="FILTER" />
+      </FacetItem>
       <FacetItem title="Cases (Free)">
         <Label name="cases_free" mode="FILTER" />
       </FacetItem>

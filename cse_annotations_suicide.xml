@@ -361,6 +361,65 @@
 
   <!-- Case Reports -->
 
+    <!-- Forum Survivors / Unknown -->
+
+      <Annotation about="*.sanctionedsuicide.com/threads/3-survivors-talk-about-sn-experience.29626/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/failed-sn-attempt-retrospective.47194/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/my-experience-jumping.6348/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/partial-sn-documentation.42027/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/sad-to-say-the-sn-didnt-work.23457/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/sn-failed-attempt.4919/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/sodium-nitrite-a-powerful-method-my-traumatic-experience.47327/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/took-sn-heres-my-story.15395/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/tried-sn-still-here.29439/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+    <!-- Forum Deaths -->
+
+      <Annotation about="*.sanctionedsuicide.com/threads/first-ever-sn-documentation.29734/">
+        <Label name="cases_forum_deaths" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/the-documenting-of-all_pointless-passing-away-by-sn.44504/">
+        <Label name="cases_forum_deaths" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
     <!-- Open Access or Free Per Month -->
 
       <!-- Arbuckle, H. B., and O. J. Thies. “FATAL POISONING WITH SODIUM NITRITE.” Journal of the Elisha Mitchell Scientific Society, vol. 49, no. 1, 1933, pp. 176–77. JSTOR. -->
