@@ -36,7 +36,7 @@
       <FacetItem title="Cases (Free)">
         <Label name="cases_free" mode="FILTER" />
       </FacetItem>
-      <FacetItem title="Cases (Paid)">
+      <FacetItem title="Cases (Paid / Sci-Hub)">
         <Label name="cases_paid" mode="FILTER" />
       </FacetItem>
       <FacetItem title="Uncategorized">
