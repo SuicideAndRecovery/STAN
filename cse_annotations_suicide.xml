@@ -358,6 +358,11 @@
       <Label name="_cse_include"/>
     </Annotation>
 
+    <Annotation about="*.sanctionedsuicide.com/threads/tourniquet-method-guide.1203/">
+      <Label name="guides" />
+      <Label name="_cse_include"/>
+    </Annotation>
+
 
   <!-- Case Reports -->
 
