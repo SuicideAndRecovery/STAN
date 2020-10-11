@@ -383,6 +383,16 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <Annotation about="*.sanctionedsuicide.com/threads/my-failed-sn-attempt.50046/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/my-time-has-come.39672/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/partial-sn-documentation.42027/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
@@ -399,6 +409,11 @@
       </Annotation>
 
       <Annotation about="*.sanctionedsuicide.com/threads/sodium-nitrite-a-powerful-method-my-traumatic-experience.47327/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/the-time-i-tried-partial-hanging.41177/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
       </Annotation>
