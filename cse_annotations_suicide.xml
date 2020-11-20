@@ -373,7 +373,17 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <Annotation about="*.sanctionedsuicide.com/threads/a-failed-suicide-attempt-by-co-poisoning.51827/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/failed-sn-attempt-retrospective.47194/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/i-failed-partial-hanging-several-weeks-ago.54133/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
       </Annotation>
@@ -388,7 +398,17 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <Annotation about="*.sanctionedsuicide.com/threads/my-final-amitriptyline-overdose.54092/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/my-time-has-come.39672/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/nitrogen-diving-mask-kit-test-results.51232/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
       </Annotation>
