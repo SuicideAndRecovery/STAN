@@ -450,6 +450,11 @@
 
     <!-- Forum Deaths -->
 
+      <Annotation about="*.sanctionedsuicide.com/threads/a-member-is-gone.55105/">
+        <Label name="cases_forum_deaths" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/first-ever-sn-documentation.29734/">
         <Label name="cases_forum_deaths" />
         <Label name="_cse_include"/>
