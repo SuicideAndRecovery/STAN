@@ -433,6 +433,11 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <Annotation about="*.sanctionedsuicide.com/threads/can-i-ctb-like-this.47682/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/failed-sn-attempt-retrospective.47194/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
@@ -463,7 +468,17 @@
         <Label name="_cse_include"/>
       </Annotation>
 
+      <Annotation about="*.sanctionedsuicide.com/threads/need-advice-urgently.47931/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
       <Annotation about="*.sanctionedsuicide.com/threads/nitrogen-diving-mask-kit-test-results.51232/">
+        <Label name="cases_forum_survivors" />
+        <Label name="_cse_include"/>
+      </Annotation>
+
+      <Annotation about="*.sanctionedsuicide.com/threads/partial-hanging-injury.47954/">
         <Label name="cases_forum_survivors" />
         <Label name="_cse_include"/>
       </Annotation>
